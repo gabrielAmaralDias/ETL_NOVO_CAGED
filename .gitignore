@@ -1,0 +1,15 @@
+# dados temporários e de saída (não vão para o repositório)
+staging/
+saida/
+Arquivos/*.csv
+Arquivos/*.txt
+Arquivos/*.7z
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ambiente local
+.venv/
+venv/
