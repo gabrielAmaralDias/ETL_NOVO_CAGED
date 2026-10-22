@@ -1,5 +1,5 @@
 REGIAO = {
-    1:'Norte', 2:'Nordeste', 3:'Sudeste',4:'Sul',5:'Centro-Oeste',9:'Não Identificado',
+    1:'Norte', 2:'Nordeste', 3:'Sudeste',4:'Sul',5:'Centro-Oeste',9:'Não Identificado',99:'Não Identificado'
 }
 UF = {
     11:'Rondônia',12:'Acre',13:'Amazonas',14:'Roraima',15:'Pará',
