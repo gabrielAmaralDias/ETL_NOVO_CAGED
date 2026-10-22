@@ -13,3 +13,8 @@ __pycache__/
 # ambiente local
 .venv/
 venv/
+
+
+dicionarios_layout.json
+
+~$*
